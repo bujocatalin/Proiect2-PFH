@@ -1,1 +1,1 @@
-# Proiect2---PFH
+# Proiect2 - Piatra, Foarfeca, Hartie
