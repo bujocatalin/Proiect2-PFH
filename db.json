@@ -1,0 +1,28 @@
+{
+  "jucator": [
+    {
+      "id": "default",
+      "nume": "default",
+      "scorEu": "0",
+      "scorCo": "0"
+    },
+    {
+      "id": "Gigel",
+      "nume": "Gigel",
+      "scorEu": "1",
+      "scorCo": "9"
+    },
+    {
+      "id": "numeJucator",
+      "nume": "numeJucator",
+      "scorEu": "0",
+      "scorCo": "1"
+    },
+    {
+      "id": "Mitu",
+      "nume": "Mitu",
+      "scorEu": "0",
+      "scorCo": "1"
+    }
+  ]
+}
